@@ -1,4 +1,4 @@
-pfDB["quests"]["enUS-turtle"] = {
+pfDB["quests"]["koKR-turtle"] = {
   [1] = "_",
   [73] = "_",
   [105] = {
